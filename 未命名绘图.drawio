@@ -1,45 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T11:35:51.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="L1v9cnDUcsqxkkMAmKWy" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T11:48:17.357Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Nnb0hGfEdDX14VQaNFCQ" version="21.5.0" type="github">
   <diagram name="第 1 页" id="GjpTzR-yzpCoA1DVSMua">
-    <mxGraphModel dx="827" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3771" dy="1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Lc8YYF_Pm4LHZvXcDxUV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Lc8YYF_Pm4LHZvXcDxUV-1" target="Lc8YYF_Pm4LHZvXcDxUV-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6HUluCy-syWH8qmNevtN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lc8YYF_Pm4LHZvXcDxUV-1" target="6HUluCy-syWH8qmNevtN-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="400" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Lc8YYF_Pm4LHZvXcDxUV-1" value="线性代数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Lc8YYF_Pm4LHZvXcDxUV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Lc8YYF_Pm4LHZvXcDxUV-2" target="Lc8YYF_Pm4LHZvXcDxUV-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Lc8YYF_Pm4LHZvXcDxUV-2" value="深度学习" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Lc8YYF_Pm4LHZvXcDxUV-5" value="智能计算" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Lc8YYF_Pm4LHZvXcDxUV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Lc8YYF_Pm4LHZvXcDxUV-7" target="Lc8YYF_Pm4LHZvXcDxUV-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Lc8YYF_Pm4LHZvXcDxUV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Lc8YYF_Pm4LHZvXcDxUV-7" target="Lc8YYF_Pm4LHZvXcDxUV-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Lc8YYF_Pm4LHZvXcDxUV-7" value="matlab" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Lc8YYF_Pm4LHZvXcDxUV-9" value="前驱后继船" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6HUluCy-syWH8qmNevtN-2" value="最优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="410" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
