@@ -17,7 +17,7 @@
           <mxGeometry width="82" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-33b8TOV8MeJdsNX9llf-5" value="桌子" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;glass=0;shadow=0;horizontal=1;verticalAlign=middle;textShadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="131" width="140" height="60" as="geometry" />
+          <mxGeometry x="90" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-33b8TOV8MeJdsNX9llf-6" value="衣柜" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry y="125" width="57" height="120" as="geometry" />
@@ -30,6 +30,9 @@
               <mxPoint x="80" y="80" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-33b8TOV8MeJdsNX9llf-14" value="电脑柜" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="231" width="40" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
