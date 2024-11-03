@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T11:48:17.357Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Nnb0hGfEdDX14VQaNFCQ" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="第 1 页" id="GjpTzR-yzpCoA1DVSMua">
-    <mxGraphModel dx="3771" dy="1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="271" pageHeight="245" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-33b8TOV8MeJdsNX9llf-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="67" y="122" width="204" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="-33b8TOV8MeJdsNX9llf-1" value="床" style="whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="-33b8TOV8MeJdsNX9llf-3">
+          <mxGeometry width="204" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="-33b8TOV8MeJdsNX9llf-2" value="床" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-33b8TOV8MeJdsNX9llf-3">
+          <mxGeometry x="3" y="1.5" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-33b8TOV8MeJdsNX9llf-4" value="门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="82" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-33b8TOV8MeJdsNX9llf-5" value="桌子" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;glass=0;shadow=0;horizontal=1;verticalAlign=middle;textShadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="131" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-33b8TOV8MeJdsNX9llf-6" value="衣柜" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry y="125" width="57" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-33b8TOV8MeJdsNX9llf-11" value="" style="curved=1;endArrow=none;html=1;rounded=0;strokeColor=default;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="82" as="sourcePoint" />
+            <mxPoint y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
